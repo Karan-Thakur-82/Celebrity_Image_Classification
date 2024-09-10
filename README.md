@@ -1,7 +1,3 @@
-# Here’s an in-depth description for your **Celebrity Image Classification** project to use on GitHub:
-
----
-
 # Celebrity Image Classification
 
 ## Overview
